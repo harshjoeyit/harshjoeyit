@@ -1,4 +1,5 @@
-### Hi there 👋, thanks for dropping by. Eccentric Web Developer and Enthusiastic Programmer. 
+### Hi there 👋, thanks for dropping by. 
+### I am and eccentric Web Developer and enthusiastic Programmer. 
 ### I :hearts: to play :basketball: and read :books:. 
 ### I cook occasionaly and can't live without Samosas.
 
