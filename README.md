@@ -1,4 +1,6 @@
-### Hi there 👋, thanks for dropping by.
+### Hi there 👋, thanks for dropping by. Eccentric Web Developer and Enthusiastic Programmer. 
+### I :hearts: to play :basketball: and read :books:. 
+### I cook occasionaly and can't live without Samosas.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=harshjoeyit&show_icons=true&theme=react)](http://harshjoeyit.github.io/)
 
