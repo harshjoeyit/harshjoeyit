@@ -1,7 +1,7 @@
 ### Hi there 👋, thanks for dropping by. 
 ### I am a Web Developer and enthusiastic Programmer. 
 ### I :hearts: to play :basketball: and read :books:. 
-### I cook occasionaly and can't live without Samosas.
+### Wanna collaborate? I'm ready.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=harshjoeyit&show_icons=true&theme=react)](http://harshjoeyit.github.io/)
 
