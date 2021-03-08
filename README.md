@@ -1,5 +1,5 @@
 ### Hi there 👋, thanks for dropping by. 
-### I am a Web Developer and enthusiastic Programmer. 
+### I am a Full Stack Development enthusiast.
 ### I :hearts: to play :basketball: and read :books:. 
 ### Wanna collaborate? I'm ready.
 
