@@ -1,3 +1,10 @@
-### Hi there 👋, thanks for dropping by. 
-### I am a Full Stack Development enthusiast, enjoy experimenting with stuff.
-### Also, I :hearts: to play :basketball: and read :books:. 
+### Hey 👋
+
+I'm a Software Engineer building backend-heavy systems and occasionally full-stack stuff.
+
+Curious about how things actually work under the hood. 
+Lately exploring distributed systems, databases, and ways to design simple, reliable systems.
+
+Outside of work — I like to play 🏸 and read 📚 (always up for a good story).
+
+Always learning, mostly by building. 😉
